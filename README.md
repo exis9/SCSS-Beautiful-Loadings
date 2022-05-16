@@ -1,6 +1,6 @@
 ## SCSS-Beautiful-Loadings
 
-This is just an experimental for educational purposes.
+This is just an experimental project for educational purposes.
 
 [Load Type 1](https://exis9.github.io/SCSS-Beautiful-Loadings/beautifulLoadings/load.html)
 
